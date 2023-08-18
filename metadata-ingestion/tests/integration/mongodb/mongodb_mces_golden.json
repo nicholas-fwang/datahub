@@ -2,7 +2,7 @@
 {
     "proposedSnapshot": {
         "com.linkedin.pegasus2avro.metadata.snapshot.DatasetSnapshot": {
-            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,mngdb.emptyCollection,PROD)",
+            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,instance.mngdb.emptyCollection,PROD)",
             "aspects": [
                 {
                     "com.linkedin.pegasus2avro.dataset.DatasetProperties": {
@@ -41,7 +41,7 @@
 {
     "proposedSnapshot": {
         "com.linkedin.pegasus2avro.metadata.snapshot.DatasetSnapshot": {
-            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,mngdb.firstCollection,PROD)",
+            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,instance.mngdb.firstCollection,PROD)",
             "aspects": [
                 {
                     "com.linkedin.pegasus2avro.dataset.DatasetProperties": {
@@ -345,7 +345,7 @@
 {
     "proposedSnapshot": {
         "com.linkedin.pegasus2avro.metadata.snapshot.DatasetSnapshot": {
-            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,mngdb.largeCollection,PROD)",
+            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,instance.mngdb.largeCollection,PROD)",
             "aspects": [
                 {
                     "com.linkedin.pegasus2avro.dataset.DatasetProperties": {
@@ -3988,7 +3988,7 @@
 {
     "proposedSnapshot": {
         "com.linkedin.pegasus2avro.metadata.snapshot.DatasetSnapshot": {
-            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,mngdb.secondCollection,PROD)",
+            "urn": "urn:li:dataset:(urn:li:dataPlatform:mongodb,instance.mngdb.secondCollection,PROD)",
             "aspects": [
                 {
                     "com.linkedin.pegasus2avro.dataset.DatasetProperties": {
